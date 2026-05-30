@@ -1,1 +1,1 @@
-# server-admin
+# DevOps Snippets
